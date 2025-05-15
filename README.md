@@ -18,8 +18,8 @@ connection between sentiment score and cryptocurrency pricing
 is limited. It is not statistically significant over the long term,
 with minor gains in significance over the short term.
 
-
 ---
-## Quick Start Guide
+
+
 
 
