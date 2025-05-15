@@ -19,7 +19,6 @@ is limited. It is not statistically significant over the long term,
 with minor gains in significance over the short term.
 
 ---
-
-
+![AAI595 Final Project Poster](https://github.com/user-attachments/assets/c0e150bb-a25c-4fac-97ff-0acc47a8a36f)
 
 
