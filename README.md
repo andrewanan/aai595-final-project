@@ -1,4 +1,4 @@
-<h1 align="center">Using Social Media Sentiment to Predict Cryptocurrency Pricing</h1>
+<h1 align="center">Using Social Media Sentiment to Predict Bitcoin Pricing</h1>
 <p align="center">
   <i>This project looks at the connection between Twitter and Reddit sentiment on Bitcoin pricing.</i><br>
   </p>
